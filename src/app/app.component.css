@@ -1,0 +1,17 @@
+#container {
+    width: 80%;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
+}
+#toc {
+    width: 15%;
+    background: rgb(194, 146, 233);
+    float: left;
+    position: fixed;
+}
+#content {
+    margin-left: 20%;
+    position: relative;
+    background-color: coral
+}
